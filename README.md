@@ -1,4 +1,4 @@
-# Lost & Found App
+# Lost & Found
 
 A simple **Lost & Found tracker** built with **HTML, CSS, and JavaScript**.  
 This app helps you **log, track, and find items** in your home using photos, location tags, and a full history of movements.  
@@ -36,9 +36,7 @@ This app helps you **log, track, and find items** in your home using photos, loc
 ## 🌐 Live URL
 
 You can try the app live here:  
-[https://yourusername.github.io/LostAndFound](https://exoo25.github.io/lost-&-found)  
-
-*(Replace `yourusername` with your GitHub username.)*
+[https://exoo25.github.io/lost-&-found](https://exoo25.github.io/lost-&-found)
 
 ---
 
@@ -59,8 +57,6 @@ Pull requests, issues, and suggestions are **welcome!**
 /index.html        -> Main HTML page
 README.md          -> This file
 ```
-
----
 
 ---
 
