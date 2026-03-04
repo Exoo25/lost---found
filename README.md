@@ -36,7 +36,7 @@ This app helps you **log, track, and find items** in your home using photos, loc
 ## 🌐 Live URL
 
 You can try the app live here:  
-[https://exoo25.github.io/lost-&-found](https://exoo25.github.io/lost-&-found)
+[https://exoo25.github.io/lost---found](https://exoo25.github.io/lost---found)
 
 ---
 
