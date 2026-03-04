@@ -28,7 +28,7 @@ This app helps you **log, track, and find items** in your home using photos, loc
 ## 🛠 Technologies Used
 
 - **HTML5**  
-- **CSS3** (Gradient, Glass Effect)  
+- **CSS3** 
 - **JavaScript** (localStorage for storage, FileReader for images)  
 
 ---
